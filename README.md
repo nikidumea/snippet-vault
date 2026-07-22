@@ -76,4 +76,4 @@ Deployed on [Vercel](https://vercel.com). Set the same environment variables fro
 
 ## License
 
-Educational project — built during the Graffish Labs internship.
+Educational project — built during the Graffish Studios internship.
