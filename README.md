@@ -38,7 +38,7 @@ NextAuth (Auth.js) · Vitest
 ### Installation
 
 ```bash
-git clone https://github.com/nikidumea/smartstudybudy.git
+git clone https://github.com/nikidumea/snippet-vault.git
 cd snippet-vault
 npm install
 cp .env.example .env
